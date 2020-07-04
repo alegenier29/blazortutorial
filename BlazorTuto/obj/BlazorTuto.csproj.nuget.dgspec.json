@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\Alejo\\Web\\Blazor\\BlazorTutorial\\BlazorTuto\\BlazorTuto.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\Alejo\\Web\\Blazor\\BlazorTuto\\blazortutorial\\BlazorTuto\\BlazorTuto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\Alejo\\Web\\Blazor\\BlazorTutorial\\BlazorTuto\\BlazorTuto.csproj": {
+    "C:\\Users\\Administrator\\Documents\\Alejo\\Web\\Blazor\\BlazorTuto\\blazortutorial\\BlazorTuto\\BlazorTuto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\Alejo\\Web\\Blazor\\BlazorTutorial\\BlazorTuto\\BlazorTuto.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\Alejo\\Web\\Blazor\\BlazorTuto\\blazortutorial\\BlazorTuto\\BlazorTuto.csproj",
         "projectName": "BlazorTuto",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\Alejo\\Web\\Blazor\\BlazorTutorial\\BlazorTuto\\BlazorTuto.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\Alejo\\Web\\Blazor\\BlazorTuto\\blazortutorial\\BlazorTuto\\BlazorTuto.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\Alejo\\Web\\Blazor\\BlazorTutorial\\BlazorTuto\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\Alejo\\Web\\Blazor\\BlazorTuto\\blazortutorial\\BlazorTuto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
